@@ -1,0 +1,14 @@
+[
+  {
+    "source": "ssh://git@gitlab.yourdomain.de/yourgroup/repo1.git",
+    "destination": "git@github.com:youruser/repo1-mirror.git"
+  },
+  {
+    "source": "ssh://git@gitlab.yourdomain.de/yourgroup/repo2.git",
+    "destination": "git@github.com:youruser/repo2-mirror.git"
+  },
+  {
+    "source": "ssh://git@gitlab.yourdomain.de/yourgroup/repo3.git",
+    "destination": "git@github.com:youruser/repo3-mirror.git"
+  }
+]
